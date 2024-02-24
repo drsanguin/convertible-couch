@@ -30,6 +30,7 @@ lib --> common_tests
   - https://github.com/rust-lang/rust-bindgen
   - https://docs.rs/cpp/latest/cpp/
   - https://github.com/rust-qt/ritual
+  - https://github.com/microsoft/windows-rs/issues/480
 - Refactor display_settings to reduce code duplication
 
 ## Acknowledgments

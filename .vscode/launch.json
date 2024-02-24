@@ -19,7 +19,7 @@
                     "kind": "bin"
                 }
             },
-            "args": [],
+            "args": ["--desktop-monitor-name", "<DESKTOP_MONITOR_NAME>", "--couch-monitor-name", "<COUCH_MONITOR_NAME>", "--desktop-audio-name", "<DESKTOP_AUDIO_NAME>", "--couch-audio-name", "<COUCH_AUDIO_NAME>"],
             "cwd": "${workspaceFolder}"
         },
         {
